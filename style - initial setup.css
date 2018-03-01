@@ -1,0 +1,53 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+ width: 500px;
+ background-color: #white;
+ margin: 0px;
+ padding: 2px;
+}
+#content{
+ width: 500px;
+ background-color: #white;
+ margin: 10px;
+ margin-bottom: 10px;
+ border-radius: 10px;
+ border-style: solid;
+ border-width: 5px;
+}
+.sections{
+ height: 130px;
+ width: 500px;
+ background-color: #white;
+ border-radius: 20px;
+ display: inline-block;
+ }
+ #div1{
+ 	display: inline-block;
+ }
+.buttons{
+	width: 125px;
+	height: 65px;
+	display: inline-block;
+	margin: 50px 0px 0px 25px;
+}
+.content_right{
+	display: inline-block;
+	height: 50px;
+	width: 150px;
+	margin: 25px 0px 25px 35px;
+	vertical-align: top;
+}
+hr{
+	width: 450px;
+	height: 3px;
+	background-color: black;
+	margin: 20px;
+	display: inline-block;
+}
+.button_containers{
+	display: inline-block;
+}
